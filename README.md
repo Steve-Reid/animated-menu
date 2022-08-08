@@ -1,4 +1,4 @@
-# Create React App Starter with Redux
+# Create React App Starter
 
 A Create React App starter project
 
@@ -8,7 +8,6 @@ A Create React App starter project
 - Create React App Override v6.5.4
 - React & React DOM v18
 - Type Checker - TypeScript v4.7.4
-- State Management - Redux Toolkit v1.8.3
 - Lint - ESlint v8, AirBnB & Eslint-config-next
 - Format - Prettier v2.7.1
 
