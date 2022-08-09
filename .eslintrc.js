@@ -52,7 +52,7 @@ module.exports = {
     'react/no-array-index-key': 'off',
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
-    'react/self-closing-comp': ['error'],
+    'react/self-closing-comp': ['off'],
     'import/no-extraneous-dependencies': [
       'error',
       {
